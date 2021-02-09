@@ -1,0 +1,381 @@
+Mandante,Visitante,Rodada,ranking_mandante,pontos_mandante,saldo_mandante,ranking_visitante,pontos_visitante,saldo_visitante,Classe
+Corinthians,Botafogo-rj,1,15624,0,0,10622,0,0,0
+Vitória,Internacional,1,9900,0,0,14360,0,0,0
+Vasco,Portuguesa,1,15030,0,0,7840,0,0,1
+Santos,Flamengo,1,13736,0,0,14352,0,0,0
+Coritiba,Atlético-mg,1,12804,0,0,11520,0,0,1
+Criciúma,Bahia,1,4370,0,0,9282,0,0,1
+Cruzeiro,Goiás,1,13096,0,0,9896,0,0,1
+Fluminense,Athlético-pr,1,16208,0,0,11078,0,0,1
+Grêmio,Náutico,1,14460,0,0,8036,0,0,1
+Ponte preta,São paulo,1,7600,0,0,14786,0,0,-1
+Goiás,Corinthians,2,9896,0,-5,15624,1,0,0
+Bahia,Coritiba,2,9282,0,-2,12804,3,1,0
+Athlético-pr,Cruzeiro,2,11078,0,-1,13096,3,5,0
+Botafogo-rj,Santos,2,10622,1,0,13736,1,0,1
+Flamengo,Ponte preta,2,14352,1,0,7600,0,-2,-1
+São paulo,Vasco,2,14786,3,2,15030,3,1,1
+Náutico,Vitória,2,8036,0,-2,9900,1,0,-1
+Internacional,Criciúma,2,14360,1,0,4370,3,2,1
+Goiás,Coritiba,3,9896,1,-5,12804,4,1,0
+Athlético-pr,Flamengo,3,11078,1,-1,14352,1,-2,0
+Santos,Grêmio,3,13736,1,-1,14460,3,0,0
+Botafogo-rj,Cruzeiro,3,10622,4,1,13096,4,5,1
+Corinthians,Ponte preta,3,15624,2,0,7600,3,0,1
+Vitória,Vasco,3,9900,4,3,15030,3,-3,1
+Náutico,Portuguesa,3,8036,0,-5,7840,3,0,0
+Atlético-mg,São paulo,3,11520,3,1,14786,6,6,0
+Internacional,Bahia,3,14360,4,2,9282,1,-2,-1
+Fluminense,Criciúma,3,16208,3,0,4370,3,0,1
+Portuguesa,Internacional,4,7840,4,0,14360,4,1,0
+Ponte preta,Athlético-pr,4,7600,3,-1,11078,2,-1,-1
+Bahia,Botafogo-rj,4,9282,4,-1,10622,7,2,1
+Criciúma,Santos,4,4370,3,-3,13736,2,-1,1
+Cruzeiro,Corinthians,4,13096,4,4,15624,5,1,1
+São paulo,Goiás,4,14786,7,6,9896,2,-5,-1
+Grêmio,Vitória,4,14460,4,0,9900,7,5,1
+Flamengo,Náutico,4,14352,2,-2,8036,1,-5,-1
+Vasco,Atlético-mg,4,15030,3,-5,11520,4,1,1
+Coritiba,Fluminense,4,12804,5,1,16208,6,3,1
+Vasco,Bahia,5,15030,6,-3,9282,7,0,0
+Cruzeiro,Internacional,5,13096,7,5,14360,5,1,0
+Corinthians,Portuguesa,5,15624,5,0,7840,5,0,0
+Ponte preta,Botafogo-rj,5,7600,3,-2,10622,7,1,-1
+Criciúma,Flamengo,5,4370,6,-1,14352,2,-3,-1
+Atlético-mg,Grêmio,2,11520,0,-1,14460,3,2,1
+Coritiba,Náutico,5,12804,8,2,8036,4,-4,1
+Fluminense,Goiás,5,16208,6,2,9896,5,-4,1
+Vitória,Athlético-pr,5,9900,7,4,11078,5,0,1
+Grêmio,São paulo,5,14460,7,1,14786,7,5,0
+Portuguesa,Fluminense,2,7840,0,-1,16208,3,1,1
+Santos,Atlético-mg,5,13736,2,-3,11520,4,-1,1
+Flamengo,Coritiba,6,14352,5,0,12804,11,3,0
+Portuguesa,Cruzeiro,6,7840,6,0,13096,8,5,0
+Athlético-pr,Grêmio,6,11078,5,-1,14460,8,1,0
+Náutico,Ponte preta,6,8036,4,-5,7600,3,-4,-1
+Atlético-mg,Criciúma,6,11520,4,-2,4370,6,-4,1
+Botafogo-rj,Fluminense,6,10622,10,3,16208,9,3,1
+Bahia,Corinthians,6,9282,8,0,15624,6,0,-1
+Goiás,Vitória,6,9896,5,-5,9900,10,5,1
+Internacional,Vasco,6,14360,6,1,15030,7,-3,1
+São paulo,Santos,6,14786,8,5,13736,5,-2,-1
+São paulo,Bahia,11,14786,12,0,9282,16,2,-1
+Ponte preta,Bahia,7,7600,6,-2,9282,8,-2,0
+Fluminense,Internacional,7,16208,9,2,14360,9,3,-1
+Santos,Portuguesa,7,13736,8,0,7840,7,0,1
+Criciúma,Goiás,7,4370,6,-5,9896,8,-4,0
+Corinthians,Atlético-mg,7,15624,9,2,11520,7,-1,-1
+Coritiba,Athlético-pr,7,12804,12,3,11078,6,-1,1
+Cruzeiro,Náutico,7,13096,9,5,8036,4,-7,1
+Vasco,Flamengo,7,15030,7,-5,14352,6,0,-1
+Grêmio,Botafogo-rj,7,14460,9,1,10622,13,4,1
+Vitória,São paulo,7,9900,10,4,14786,8,3,1
+Botafogo-rj,Náutico,8,10622,13,3,8036,4,-10,1
+Criciúma,Grêmio,8,4370,7,-5,14460,12,2,1
+São paulo,Cruzeiro,8,14786,8,2,13096,12,8,-1
+Vitória,Bahia,8,9900,13,5,9282,9,-2,0
+Athlético-pr,Corinthians,8,11078,6,-2,15624,9,1,0
+Santos,Coritiba,8,13736,11,3,12804,15,4,0
+Goiás,Portuguesa,8,9896,9,-4,7840,7,-3,1
+Internacional,Flamengo,8,14360,12,4,14352,9,1,1
+Fluminense,Vasco,8,16208,9,1,15030,7,-6,-1
+São paulo,Internacional,12,14786,12,-1,14360,16,1,-1
+Portuguesa,Athlético-pr,9,7840,7,-4,11078,7,-2,-1
+Ponte preta,Santos,9,7600,7,-6,13736,12,3,1
+Vasco,Criciúma,9,15030,10,-4,4370,10,-4,1
+Flamengo,Botafogo-rj,9,14352,9,0,10622,16,5,0
+Corinthians,São paulo,9,15624,10,1,14786,8,-1,0
+Coritiba,Vitória,9,12804,16,4,9900,14,5,0
+Bahia,Goiás,9,9282,10,-2,9896,12,-3,1
+Cruzeiro,Atlético-mg,9,13096,15,11,11520,13,4,1
+Grêmio,Fluminense,9,14460,12,1,16208,9,-1,1
+Náutico,Internacional,9,8036,4,-12,14360,15,5,1
+Portuguesa,Criciúma,10,7840,7,-5,4370,10,-5,0
+Atlético-mg,Athlético-pr,10,11520,13,1,11078,10,-1,-1
+Bahia,Flamengo,10,9282,13,-1,14352,10,0,1
+Corinthians,Grêmio,10,15624,11,1,14460,15,3,1
+Coritiba,Ponte preta,10,12804,17,4,7600,10,-5,1
+Fluminense,Cruzeiro,10,16208,9,-3,13096,18,14,1
+Goiás,Vasco,10,9896,12,-4,15030,13,-3,0
+Botafogo-rj,Vitória,10,10622,17,5,9900,15,5,1
+Cruzeiro,Coritiba,11,13096,18,13,12804,20,6,1
+Ponte preta,Fluminense,11,7600,10,-7,16208,12,-2,0
+Grêmio,Internacional,11,14460,15,1,14360,15,1,0
+Athlético-pr,Goiás,11,11078,13,0,9896,13,-4,1
+Vasco,Botafogo-rj,11,15030,14,-3,10622,20,7,-1
+Criciúma,Corinthians,11,4370,11,-5,15624,14,3,-1
+Flamengo,Atlético-mg,11,14352,10,-3,11520,13,0,1
+Vitória,Portuguesa,11,9900,15,3,7840,8,-5,1
+Atlético-mg,Botafogo-rj,12,11520,13,-3,10622,23,8,0
+Santos,Corinthians,12,13736,16,3,15624,17,5,0
+Vitória,Fluminense,12,9900,18,4,16208,13,-2,0
+Flamengo,Portuguesa,12,14352,13,0,7840,8,-6,0
+Athlético-pr,Bahia,12,11078,16,2,9282,19,3,1
+Criciúma,Cruzeiro,12,4370,11,-7,13096,21,14,-1
+Goiás,Náutico,12,9896,13,-6,8036,8,-10,1
+Vasco,Ponte preta,12,15030,14,-4,7600,11,-7,0
+Grêmio,Coritiba,12,14460,16,1,12804,20,5,-1
+Náutico,Atlético-mg,13,8036,8,-11,11520,14,-3,0
+Botafogo-rj,Goiás,13,10622,24,8,9896,16,-5,0
+Internacional,Athlético-pr,13,14360,19,2,11078,19,3,0
+Cruzeiro,Santos,13,13096,24,15,13736,17,3,0
+Corinthians,Vitória,13,15624,18,5,9900,19,4,1
+Fluminense,Flamengo,13,16208,14,-2,14352,14,0,-1
+Bahia,Grêmio,13,9282,19,2,14460,16,0,-1
+Ponte preta,Criciúma,13,7600,12,-7,4370,11,-8,1
+Portuguesa,São paulo,13,7840,9,-6,14786,12,-2,1
+Coritiba,Vasco,13,12804,23,6,15030,15,-4,-1
+Fluminense,Corinthians,14,16208,14,-3,15624,21,7,0
+Goiás,Flamengo,14,9896,17,-5,14352,17,1,0
+Coritiba,Portuguesa,14,12804,23,5,7840,12,-5,0
+Santos,Vasco,14,13736,18,3,15030,18,-3,0
+Atlético-mg,Bahia,14,11520,15,-3,9282,19,-1,1
+Criciúma,Náutico,14,4370,11,-10,8036,9,-11,1
+Grêmio,Cruzeiro,14,14460,19,3,13096,25,15,1
+Vitória,Ponte preta,14,9900,19,2,7600,15,-5,1
+São paulo,Athlético-pr,14,14786,12,-3,11078,20,3,0
+Botafogo-rj,Internacional,14,10622,25,8,14360,20,2,0
+Cruzeiro,Vitória,15,13096,25,13,9900,22,4,1
+Náutico,Fluminense,15,8036,9,-14,16208,15,-3,-1
+Vasco,Grêmio,15,15030,19,-3,14460,22,5,-1
+Internacional,Atlético-mg,15,14360,21,2,11520,18,-1,0
+Bahia,Santos,15,9282,19,-3,13736,19,3,0
+Flamengo,São paulo,15,14352,18,1,14786,13,-3,0
+Athlético-pr,Criciúma,15,11078,21,3,4370,14,-7,1
+Portuguesa,Botafogo-rj,15,7840,13,-5,10622,26,8,-1
+Corinthians,Coritiba,15,15624,22,7,12804,24,5,1
+Ponte preta,Goiás,15,7600,15,-7,9896,18,-5,-1
+Criciúma,Coritiba,16,4370,14,-8,12804,24,4,1
+Ponte preta,Cruzeiro,16,7600,15,-8,13096,28,17,-1
+Flamengo,Grêmio,16,14352,19,1,14460,25,6,-1
+Santos,Vitória,16,13736,20,3,9900,22,0,1
+Vasco,Corinthians,16,15030,19,-4,15624,25,8,0
+Internacional,Goiás,16,14360,22,2,9896,21,-4,0
+Atlético-mg,Portuguesa,16,11520,19,-1,7840,13,-7,1
+Athlético-pr,Botafogo-rj,16,11078,24,4,10622,29,10,1
+Bahia,Náutico,16,9282,20,-3,8036,9,-15,1
+São paulo,Fluminense,16,14786,14,-3,16208,18,-2,1
+Goiás,Atlético-mg,17,9896,22,-4,11520,22,0,0
+Náutico,Athlético-pr,17,8036,9,-17,11078,27,6,-1
+Grêmio,Ponte preta,17,14460,28,7,7600,15,-10,1
+Portuguesa,Bahia,17,7840,13,-8,9282,23,-1,1
+Fluminense,Santos,17,16208,18,-3,13736,23,5,-1
+Coritiba,Internacional,17,12804,24,3,14360,23,2,0
+Botafogo-rj,São paulo,17,10622,29,8,14786,17,-2,0
+Corinthians,Flamengo,17,15624,26,8,14352,19,0,1
+Vitória,Criciúma,17,9900,22,-2,4370,17,-7,-1
+Cruzeiro,Vasco,17,13096,31,19,15030,20,-4,1
+Goiás,Grêmio,18,9896,23,-4,14460,31,8,1
+Náutico,São paulo,10,8036,7,-9,14786,9,-1,-1
+Atlético-mg,Fluminense,18,11520,23,0,16208,18,-5,0
+Athlético-pr,Santos,18,11078,30,9,13736,26,7,1
+Bahia,Cruzeiro,18,9282,23,-3,13096,34,21,-1
+Flamengo,Vitória,18,14352,19,-4,9900,22,-3,1
+Internacional,Corinthians,18,14360,24,2,15624,29,12,1
+Portuguesa,Ponte preta,18,7840,16,-6,7600,15,-11,1
+Botafogo-rj,Coritiba,18,10622,30,8,12804,25,3,1
+São paulo,Criciúma,18,14786,18,-2,4370,20,-6,-1
+Náutico,Vasco,18,8036,9,-20,15030,20,-6,-1
+Vitória,Atlético-mg,19,9900,22,-4,11520,24,0,0
+Fluminense,Bahia,19,16208,19,-5,9282,23,-5,1
+Grêmio,Portuguesa,19,14460,31,6,7840,19,-5,1
+Ponte preta,Internacional,19,7600,15,-12,14360,27,3,-1
+Santos,Goiás,19,13736,26,6,9896,26,-2,1
+Vasco,Athlético-pr,19,15030,23,-3,11078,33,10,0
+Corinthians,Náutico,19,15624,29,11,8036,9,-23,0
+Criciúma,Botafogo-rj,19,4370,23,-5,10622,33,10,-1
+Coritiba,São paulo,19,12804,25,1,14786,18,-3,1
+Cruzeiro,Flamengo,19,13096,37,23,14352,22,-3,1
+Internacional,Santos,10,14360,15,2,13736,12,2,-1
+Bahia,Criciúma,20,9282,23,-6,4370,23,-6,0
+Athlético-pr,Fluminense,20,11078,34,10,16208,22,-4,0
+Botafogo-rj,Corinthians,20,10622,36,11,15624,30,11,1
+Goiás,Cruzeiro,20,9896,26,-3,13096,40,24,-1
+Náutico,Grêmio,20,8036,10,-23,14460,34,7,-1
+Portuguesa,Vasco,20,7840,19,-6,15030,24,-3,1
+Internacional,Vitória,20,14360,30,5,9900,23,-4,0
+Atlético-mg,Coritiba,20,11520,25,0,12804,28,3,1
+Flamengo,Santos,20,14352,22,-4,13736,29,7,1
+São paulo,Ponte preta,20,14786,18,-5,7600,15,-14,1
+Cruzeiro,Athlético-pr,21,13096,43,25,11078,35,10,1
+Fluminense,Portuguesa,21,16208,23,-4,7840,22,-4,1
+Coritiba,Bahia,21,12804,28,0,9282,24,-6,0
+Ponte preta,Flamengo,21,7600,15,-15,14352,25,-3,0
+Grêmio,Atlético-mg,21,14460,37,9,11520,28,3,-1
+Santos,Botafogo-rj,21,13736,29,6,10622,39,12,-1
+Corinthians,Goiás,21,15624,30,10,9896,26,-4,-1
+Criciúma,Internacional,21,4370,24,-6,14360,31,5,-1
+Vasco,São paulo,21,15030,24,-5,14786,21,-4,-1
+Vitória,Náutico,21,9900,24,-4,8036,10,-25,1
+Coritiba,Goiás,22,12804,29,0,9896,29,-3,0
+Grêmio,Santos,22,14460,37,8,13736,29,5,0
+Cruzeiro,Botafogo-rj,22,13096,46,26,10622,42,13,1
+Criciúma,Fluminense,22,4370,24,-7,16208,26,-3,-1
+Ponte preta,Corinthians,22,7600,16,-15,15624,30,9,1
+São paulo,Atlético-mg,22,14786,24,-2,11520,31,4,1
+Vasco,Vitória,22,15030,24,-7,9900,27,-3,-1
+Flamengo,Athlético-pr,22,14352,26,-3,11078,35,9,-1
+Bahia,Internacional,22,9282,25,-6,14360,34,6,1
+Portuguesa,Náutico,22,7840,22,-5,8036,10,-26,1
+Fluminense,Coritiba,23,16208,29,-2,12804,30,0,0
+Vitória,Grêmio,23,9900,30,-2,14460,38,8,0
+Corinthians,Cruzeiro,23,15624,30,7,13096,49,29,0
+Náutico,Flamengo,23,8036,10,-29,14352,26,-5,0
+Atlético-mg,Vasco,23,11520,31,3,15030,24,-8,1
+Athlético-pr,Ponte preta,23,11078,38,11,7600,19,-13,1
+Botafogo-rj,Bahia,23,10622,42,10,9282,28,-4,-1
+Goiás,São paulo,23,9896,30,-3,14786,27,-1,1
+Internacional,Portuguesa,23,14360,34,4,7840,25,-2,-1
+Santos,Criciúma,23,13736,30,5,4370,24,-8,1
+Criciúma,Atlético-mg,25,4370,24,-12,11520,37,6,0
+Santos,Náutico,11,13736,15,3,8036,7,-10,0
+Goiás,Fluminense,24,9896,33,-2,16208,30,-2,-1
+Náutico,Coritiba,24,8036,11,-29,12804,31,0,1
+Botafogo-rj,Ponte preta,24,10622,42,9,7600,19,-14,-1
+Bahia,Vasco,24,9282,31,-3,15030,24,-9,0
+Atlético-mg,Santos,24,11520,34,4,13736,33,6,1
+Internacional,Cruzeiro,24,14360,34,3,13096,50,29,-1
+Flamengo,Criciúma,24,14352,27,-5,4370,24,-9,1
+São paulo,Grêmio,24,14786,27,-2,14460,39,8,-1
+Portuguesa,Corinthians,24,7840,28,-1,15624,31,7,1
+Athlético-pr,Vitória,24,11078,41,12,9900,31,-2,-1
+Ponte preta,Náutico,25,7600,22,-13,8036,14,-26,-1
+Fluminense,Botafogo-rj,25,16208,33,-1,10622,42,8,0
+Corinthians,Bahia,25,15624,31,3,9282,32,-3,1
+Cruzeiro,Portuguesa,25,13096,53,30,7840,31,3,1
+Coritiba,Flamengo,25,12804,31,-3,14352,30,-2,-1
+Grêmio,Athlético-pr,25,14460,42,9,11078,41,10,1
+Santos,São paulo,25,13736,33,4,14786,27,-3,1
+Vitória,Goiás,25,9900,34,0,9896,33,-3,1
+Atlético-mg,Ponte preta,8,11520,10,0,7600,7,-2,1
+Vasco,Internacional,25,15030,25,-9,14360,34,2,1
+Botafogo-rj,Grêmio,26,10622,43,8,14460,45,10,-1
+São paulo,Vitória,26,14786,27,-6,9900,37,1,1
+Atlético-mg,Corinthians,26,11520,38,6,15624,34,5,0
+Goiás,Criciúma,26,9896,33,-4,4370,25,-12,0
+Bahia,Ponte preta,26,9282,32,-5,7600,22,-14,0
+Flamengo,Vasco,26,14352,33,0,15030,28,-7,0
+Athlético-pr,Coritiba,26,11078,41,9,12804,31,-5,1
+Náutico,Cruzeiro,26,8036,17,-25,13096,56,34,-1
+Internacional,Fluminense,26,14360,34,0,16208,34,-1,1
+Portuguesa,Santos,26,7840,31,-1,13736,36,7,1
+Corinthians,Athlético-pr,27,15624,35,5,11078,44,10,0
+Bahia,Vitória,27,9282,33,-5,9900,37,0,1
+Náutico,Botafogo-rj,27,8036,17,-28,10622,43,7,-1
+Coritiba,Santos,27,12804,31,-6,13736,36,4,1
+Grêmio,Criciúma,27,14460,48,11,4370,26,-12,-1
+Ponte preta,Atlético-mg,27,7600,23,-14,11520,39,6,1
+Cruzeiro,São paulo,27,13096,59,37,14786,30,-5,-1
+Vasco,Fluminense,27,15030,29,-7,16208,34,-2,1
+Flamengo,Internacional,27,14352,34,0,14360,37,1,1
+Portuguesa,Goiás,27,7840,34,2,9896,34,-4,-1
+Fluminense,Grêmio,28,16208,34,-3,14460,48,10,0
+Santos,Ponte preta,28,13736,36,3,7600,26,-12,1
+Vitória,Coritiba,28,9900,37,-2,12804,34,-5,1
+São paulo,Corinthians,28,14786,33,-3,15624,36,5,0
+Atlético-mg,Cruzeiro,28,11520,39,4,13096,59,35,1
+Athlético-pr,Portuguesa,28,11078,45,10,7840,34,1,1
+Botafogo-rj,Flamengo,28,10622,46,9,14352,37,1,1
+Criciúma,Vasco,28,4370,29,-11,15030,32,-6,1
+Goiás,Bahia,28,9896,37,-3,9282,36,-3,1
+Internacional,Náutico,28,14360,37,0,8036,17,-30,1
+Santos,Internacional,29,13736,39,4,14360,40,3,0
+Athlético-pr,Atlético-mg,29,11078,48,11,11520,42,5,1
+Cruzeiro,Fluminense,29,13096,59,34,16208,35,-3,1
+Flamengo,Bahia,29,14352,37,0,9282,36,-5,1
+Grêmio,Corinthians,29,14460,49,10,15624,37,5,1
+Ponte preta,Coritiba,29,7600,26,-13,12804,34,-6,1
+Criciúma,Portuguesa,29,4370,32,-10,7840,34,0,-1
+São paulo,Náutico,29,14786,34,-3,8036,17,-33,1
+Vasco,Goiás,29,15030,32,-7,9896,40,-1,-1
+Vitória,Botafogo-rj,29,9900,40,-1,10622,49,10,1
+Fluminense,Ponte preta,30,16208,35,-4,7600,29,-12,0
+Corinthians,Criciúma,30,15624,37,4,4370,32,-12,1
+Náutico,Santos,30,8036,17,-36,13736,40,4,-1
+Internacional,Grêmio,30,14360,41,3,14460,52,11,0
+Botafogo-rj,Vasco,30,10622,49,9,15030,32,-9,0
+Portuguesa,Vitória,30,7840,37,2,9900,43,0,0
+Atlético-mg,Flamengo,30,11520,42,4,14352,40,1,1
+Coritiba,Cruzeiro,30,12804,34,-7,13096,62,35,1
+Goiás,Athlético-pr,30,9896,43,1,11078,51,12,1
+Bahia,São paulo,30,9282,36,-6,14786,37,0,-1
+Botafogo-rj,Atlético-mg,31,10622,50,9,11520,45,5,1
+Cruzeiro,Criciúma,31,13096,62,34,4370,32,-13,1
+Bahia,Athlético-pr,31,9282,36,-7,11078,51,9,0
+Portuguesa,Flamengo,31,7840,38,2,14352,40,0,0
+Corinthians,Santos,31,15624,40,5,13736,43,8,0
+Coritiba,Grêmio,31,12804,37,-6,14460,53,11,1
+Náutico,Goiás,31,8036,17,-40,9896,46,4,-1
+Ponte preta,Vasco,31,7600,30,-12,15030,33,-9,1
+Internacional,São paulo,31,14360,42,3,14786,40,1,-1
+Fluminense,Vitória,31,16208,36,-4,9900,44,0,-1
+Atlético-mg,Náutico,32,11520,45,4,8036,17,-42,1
+São paulo,Portuguesa,32,14786,43,2,7840,39,2,1
+Vasco,Coritiba,32,15030,33,-10,12804,40,-2,1
+Grêmio,Bahia,32,14460,53,7,9282,37,-7,0
+Vitória,Corinthians,32,9900,47,1,15624,41,5,0
+Criciúma,Ponte preta,32,4370,32,-15,7600,33,-11,0
+Athlético-pr,Internacional,32,11078,52,9,14360,42,2,1
+Santos,Cruzeiro,32,13736,44,8,13096,65,36,-1
+Flamengo,Fluminense,32,14352,41,0,16208,36,-5,1
+Goiás,Botafogo-rj,32,9896,49,6,10622,53,10,1
+Bahia,Atlético-mg,33,9282,38,-7,11520,48,9,0
+Portuguesa,Coritiba,33,7840,39,1,12804,40,-3,0
+Flamengo,Goiás,33,14352,44,1,9896,52,7,0
+Vasco,Santos,33,15030,36,-9,13736,44,7,0
+Athlético-pr,São paulo,33,11078,55,10,14786,46,3,1
+Corinthians,Fluminense,33,15624,42,5,16208,36,-6,1
+Náutico,Criciúma,33,8036,17,-47,4370,33,-15,-1
+Cruzeiro,Grêmio,33,13096,68,37,14460,54,7,1
+Internacional,Botafogo-rj,33,14360,42,1,10622,53,9,1
+Ponte preta,Vitória,33,7600,34,-11,9900,48,1,-1
+Botafogo-rj,Portuguesa,34,10622,53,8,7840,40,1,0
+Coritiba,Corinthians,34,12804,41,-3,15624,45,6,-1
+Criciúma,Athlético-pr,34,4370,36,-14,11078,58,13,1
+Vitória,Cruzeiro,34,9900,51,4,13096,71,40,-1
+Goiás,Ponte preta,34,9896,53,7,7600,34,-14,1
+Grêmio,Vasco,34,14460,54,4,15030,37,-9,1
+São paulo,Flamengo,34,14786,46,0,14352,45,1,1
+Atlético-mg,Internacional,34,11520,49,9,14360,45,2,1
+Fluminense,Náutico,34,16208,36,-7,8036,17,-48,1
+Santos,Bahia,34,13736,45,7,9282,39,-7,1
+Botafogo-rj,Athlético-pr,35,10622,54,8,11078,58,12,1
+Coritiba,Criciúma,35,12804,41,-4,4370,39,-13,-1
+Cruzeiro,Ponte preta,35,13096,74,42,7600,34,-16,0
+Corinthians,Vasco,35,15624,48,7,15030,37,-10,0
+Náutico,Bahia,35,8036,17,-50,9282,39,-10,-1
+Fluminense,São paulo,35,16208,39,-5,14786,49,2,1
+Goiás,Internacional,35,9896,56,9,14360,45,1,1
+Grêmio,Flamengo,35,14460,57,5,14352,45,-1,1
+Portuguesa,Atlético-mg,35,7840,41,1,11520,52,10,1
+Vitória,Santos,35,9900,51,2,13736,48,10,1
+Criciúma,Vitória,36,4370,42,-12,9900,54,4,0
+Atlético-mg,Goiás,36,11520,52,8,9896,59,11,1
+Vasco,Cruzeiro,36,15030,38,-10,13096,75,42,1
+São paulo,Botafogo-rj,36,14786,49,1,10622,57,12,0
+Internacional,Coritiba,36,14360,45,-1,12804,41,-5,0
+Ponte preta,Grêmio,36,7600,35,-16,14460,60,6,0
+Athlético-pr,Náutico,36,11078,58,8,8036,17,-51,1
+Bahia,Portuguesa,36,9282,42,-9,7840,44,3,1
+Flamengo,Corinthians,36,14352,45,-2,15624,49,7,1
+Santos,Fluminense,36,13736,48,8,16208,42,-4,1
+Fluminense,Atlético-mg,37,16208,42,-5,11520,55,11,0
+Corinthians,Internacional,37,15624,49,6,14360,46,-1,0
+Cruzeiro,Bahia,37,13096,75,41,9282,45,-8,-1
+Coritiba,Botafogo-rj,37,12804,42,-5,10622,58,12,1
+Criciúma,São paulo,37,4370,43,-12,14786,50,1,1
+Grêmio,Goiás,37,14460,61,6,9896,59,8,1
+Ponte preta,Portuguesa,37,7600,36,-16,7840,44,2,-1
+Santos,Athlético-pr,37,13736,51,9,11078,61,13,1
+Vasco,Náutico,37,15030,41,-9,8036,17,-56,1
+Vitória,Flamengo,37,9900,55,4,14352,48,-1,1
+Flamengo,Cruzeiro,38,14352,48,-3,13096,75,40,0
+Náutico,Corinthians,38,8036,17,-58,15624,50,6,1
+Portuguesa,Grêmio,38,7840,47,4,14460,64,7,0
+Internacional,Ponte preta,38,14360,47,-1,7600,36,-18,0
+Atlético-mg,Vitória,38,11520,56,11,9900,58,6,0
+Athlético-pr,Vasco,38,11078,61,12,15030,44,-7,1
+Botafogo-rj,Criciúma,38,10622,58,11,4370,46,-11,1
+São paulo,Coritiba,38,14786,50,0,12804,45,-4,-1
+Bahia,Fluminense,38,9282,48,-7,16208,43,-5,-1
+Goiás,Santos,38,9896,59,7,13736,54,10,-1
