@@ -1,0 +1,381 @@
+,Mandante,Visitante,Rodada,Classe,ranking_mandante,pontos_mandante,saldo_mandante,ranking_visitante,pontos_visitante,saldo_visitante
+7559,Atlético-mg,Avaí,1,1,13352,0,0,6394,0,0
+7560,Chapecoense,Internacional,1,1,10706,0,0,10902,0,0
+7561,Flamengo,Cruzeiro,1,1,13850,0,0,15822,0,0
+7562,São paulo,Botafogo-rj,1,1,10508,0,0,10619,0,0
+7563,Athlético-pr,Vasco,1,1,11380,0,0,9360,0,0
+7564,Bahia,Corinthians,1,1,8862,0,0,14208,0,0
+7565,Ceará,Csa,1,1,6274,0,0,2850,0,0
+7566,Fluminense,Goiás,1,-1,10034,0,0,6168,0,0
+7567,Palmeiras,Fortaleza,1,1,16914,0,0,4222,0,0
+7568,Grêmio,Santos,1,-1,14936,0,0,14682,0,0
+7569,Avaí,Grêmio,2,0,6394,0,-1,14936,0,-1
+7570,Csa,Palmeiras,2,0,2850,0,-4,16914,3,4
+7571,Vasco,Atlético-mg,2,-1,9360,0,-3,13352,3,1
+7572,Corinthians,Chapecoense,2,1,14208,0,-1,10706,3,2
+7573,Cruzeiro,Ceará,2,1,15822,0,-2,6274,3,4
+7574,Fortaleza,Athlético-pr,2,1,4222,0,-4,11380,3,3
+7575,Internacional,Flamengo,2,1,10902,0,-2,13850,3,2
+7576,Goiás,São paulo,2,-1,6168,3,1,10508,3,2
+7577,Botafogo-rj,Bahia,2,1,10619,0,-2,8862,3,1
+7578,Santos,Fluminense,2,1,14682,3,1,10034,0,-1
+7579,Vasco,Corinthians,3,0,9360,0,-4,14208,3,0
+7580,Ceará,Atlético-mg,3,-1,6274,3,3,13352,6,2
+7581,Palmeiras,Internacional,3,1,16914,4,4,10902,3,-1
+7582,Chapecoense,Athlético-pr,3,0,10706,3,1,11380,3,2
+7583,São paulo,Flamengo,3,0,10508,6,3,13850,3,1
+7584,Csa,Santos,3,0,2850,1,-4,14682,6,2
+7585,Bahia,Avaí,3,1,8862,3,0,6394,1,-1
+7586,Botafogo-rj,Fortaleza,3,1,10619,3,-1,4222,3,-3
+7587,Cruzeiro,Goiás,3,1,15822,3,-1,6168,3,0
+7588,Grêmio,Fluminense,3,-1,14936,1,-1,10034,0,-2
+7589,Corinthians,Grêmio,4,0,14208,4,0,14936,1,-2
+7590,Fluminense,Botafogo-rj,4,-1,10034,3,-1,10619,6,0
+7591,Goiás,Ceará,4,1,6168,3,-1,6274,3,2
+7592,Avaí,Csa,4,0,6394,1,-2,2850,2,-4
+7593,Athlético-pr,Bahia,4,1,11380,4,2,8862,6,1
+7594,Flamengo,Chapecoense,4,1,13850,4,1,10706,4,1
+7595,Internacional,Cruzeiro,4,1,10902,3,-2,15822,6,0
+7596,Atlético-mg,Palmeiras,4,-1,13352,9,3,16914,7,5
+7597,Santos,Vasco,4,1,14682,7,2,9360,1,-4
+7598,Fortaleza,São paulo,4,-1,4222,3,-4,10508,7,3
+7599,Atlético-mg,Flamengo,5,1,13352,9,1,13850,7,2
+7600,Fluminense,Cruzeiro,5,1,10034,3,-2,15822,6,-2
+7601,Palmeiras,Santos,5,1,16914,10,7,14682,10,5
+7602,Vasco,Avaí,5,0,9360,1,-7,6394,2,-2
+7603,São paulo,Bahia,5,0,10508,10,4,8862,6,0
+7604,Ceará,Grêmio,5,1,6274,3,1,14936,2,-2
+7605,Athlético-pr,Corinthians,5,-1,11380,7,3,14208,5,0
+7606,Chapecoense,Fortaleza,5,-1,10706,4,0,4222,3,-5
+7607,Goiás,Botafogo-rj,5,1,6168,6,0,10619,9,1
+7608,Internacional,Csa,5,1,10902,6,0,2850,3,-4
+7609,Grêmio,Atlético-mg,6,1,14936,2,-3,13352,12,2
+7610,Botafogo-rj,Palmeiras,6,-1,10619,9,0,16914,13,11
+7611,Santos,Internacional,6,0,14682,10,1,10902,9,2
+7612,Fortaleza,Vasco,6,0,4222,6,-3,9360,2,-7
+7613,Bahia,Fluminense,6,1,8862,7,0,10034,6,1
+7614,Cruzeiro,Chapecoense,6,-1,15822,6,-5,10706,4,-2
+7615,Corinthians,São paulo,6,1,14208,8,2,10508,11,4
+7616,Flamengo,Athlético-pr,6,1,13850,7,1,11380,7,1
+7617,Avaí,Ceará,6,-1,6394,3,-2,6274,6,2
+7618,Csa,Goiás,6,1,2850,3,-6,6168,9,1
+7619,Bahia,Grêmio,7,1,8862,10,1,14936,5,-2
+7620,Flamengo,Fortaleza,7,1,13850,10,2,4222,7,-3
+7621,São paulo,Cruzeiro,7,0,10508,11,3,15822,6,-6
+7622,Athlético-pr,Fluminense,7,1,11380,7,0,10034,6,0
+7623,Atlético-mg,Csa,7,1,13352,12,1,2850,6,-5
+7624,Botafogo-rj,Vasco,7,1,10619,9,-1,9360,3,-7
+7625,Internacional,Avaí,7,1,10902,10,2,6394,3,-3
+7626,Chapecoense,Palmeiras,7,-1,10706,7,-1,16914,16,12
+7627,Ceará,Santos,7,-1,6274,9,3,14682,11,1
+7628,Vasco,Internacional,8,1,9360,3,-8,10902,13,4
+7629,Ceará,Bahia,8,0,6274,9,2,8862,13,2
+7630,Cruzeiro,Corinthians,8,0,15822,7,-6,14208,14,5
+7631,Avaí,São paulo,8,0,6394,3,-5,10508,12,3
+7632,Grêmio,Fortaleza,8,1,14936,5,-3,4222,7,-5
+7633,Palmeiras,Athlético-pr,8,1,16914,19,13,11380,10,3
+7634,Fluminense,Flamengo,8,0,10034,6,-3,13850,13,4
+7635,Csa,Botafogo-rj,8,-1,2850,6,-9,10619,12,0
+7636,Santos,Atlético-mg,8,1,14682,14,2,13352,15,5
+7637,Goiás,Chapecoense,8,1,6168,9,-2,10706,7,-2
+7638,Csa,Flamengo,9,-1,2850,6,-10,13850,14,4
+7639,Fortaleza,Cruzeiro,9,1,4222,7,-6,15822,8,-6
+7640,Botafogo-rj,Grêmio,9,-1,10619,15,1,14936,8,-2
+7641,Internacional,Bahia,9,1,10902,13,3,8862,14,2
+7642,Santos,Corinthians,9,1,14682,17,4,14208,15,5
+7643,Chapecoense,Fluminense,9,0,10706,7,-4,10034,7,-3
+7644,Atlético-mg,São paulo,9,0,13352,15,3,10508,13,3
+7645,Goiás,Athlético-pr,9,1,6168,12,0,11380,10,2
+7646,Palmeiras,Avaí,9,1,16914,22,14,6394,4,-5
+7647,Vasco,Ceará,9,1,9360,6,-7,6274,10,2
+7648,São paulo,Palmeiras,10,0,10508,14,3,16914,25,16
+7649,Fortaleza,Avaí,10,1,4222,10,-5,6394,4,-7
+7650,Grêmio,Vasco,10,1,14936,11,-1,9360,9,-6
+7651,Bahia,Santos,10,-1,8862,14,0,14682,20,5
+7652,Cruzeiro,Botafogo-rj,10,0,15822,8,-7,10619,15,0
+7653,Athlético-pr,Internacional,10,1,11380,10,1,10902,16,5
+7654,Chapecoense,Atlético-mg,10,-1,10706,8,-4,13352,16,3
+7655,Corinthians,Csa,10,1,14208,15,4,2850,6,-12
+7656,Flamengo,Goiás,10,1,13850,17,6,6168,15,1
+7657,Fluminense,Ceará,10,0,10034,8,-3,6274,10,1
+7658,Bahia,Cruzeiro,11,0,8862,14,-1,15822,9,-7
+7659,Internacional,Grêmio,11,0,10902,16,4,14936,14,0
+7660,Csa,Athlético-pr,11,-1,2850,6,-13,11380,13,2
+7661,Ceará,Palmeiras,11,1,6274,11,1,16914,26,16
+7662,Vasco,Fluminense,11,1,9360,9,-7,10034,9,-3
+7663,Corinthians,Flamengo,11,0,14208,18,5,13850,20,11
+7664,Atlético-mg,Fortaleza,11,0,13352,19,4,4222,13,-3
+7665,Avaí,Goiás,11,0,6394,4,-9,6168,15,-4
+7666,Botafogo-rj,Santos,11,-1,10619,16,0,14682,23,6
+7667,São paulo,Chapecoense,11,1,10508,15,3,10706,8,-5
+7668,Palmeiras,Vasco,12,0,16914,26,14,9360,12,-6
+7669,Cruzeiro,Athlético-pr,12,-1,15822,10,-7,11380,16,6
+7670,Internacional,Ceará,12,1,10902,17,4,6274,14,3
+7671,Fluminense,São paulo,12,-1,10034,9,-4,10508,18,7
+7672,Goiás,Atlético-mg,12,0,6168,16,-4,13352,20,4
+7673,Chapecoense,Bahia,12,0,10706,8,-9,8862,15,-1
+7674,Fortaleza,Corinthians,12,-1,4222,14,-3,14208,19,5
+7675,Flamengo,Botafogo-rj,12,1,13850,21,11,10619,16,-1
+7676,Santos,Avaí,12,1,14682,26,7,6394,5,-9
+7677,Csa,Grêmio,12,0,2850,6,-17,14936,15,0
+7678,Ceará,Fortaleza,13,1,6274,14,2,4222,14,-5
+7679,Fluminense,Internacional,13,1,10034,9,-5,10902,20,5
+7680,Vasco,Csa,13,0,9360,13,-6,2850,7,-17
+7681,Corinthians,Palmeiras,13,0,14208,22,7,16914,27,14
+7682,Atlético-mg,Cruzeiro,13,1,13352,21,4,15822,10,-9
+7683,Bahia,Flamengo,13,1,8862,16,-1,13850,24,12
+7684,Avaí,Botafogo-rj,13,-1,6394,5,-11,10619,16,-2
+7685,Santos,Goiás,13,1,14682,29,9,6168,17,-4
+7686,Grêmio,Chapecoense,13,0,14936,16,0,10706,9,-9
+7687,Corinthians,Goiás,7,1,14208,11,3,6168,9,0
+7688,Atlético-mg,Fluminense,14,1,13352,24,6,10034,12,-4
+7689,Ceará,Chapecoense,14,1,6274,17,3,10706,10,-9
+7690,Flamengo,Grêmio,14,1,13850,24,9,14936,17,0
+7691,São paulo,Santos,14,1,10508,24,9,14682,32,14
+7692,Palmeiras,Bahia,14,0,16914,28,14,8862,19,2
+7693,Internacional,Corinthians,14,0,10902,20,4,14208,23,7
+7694,Avaí,Cruzeiro,14,0,6394,5,-13,15822,10,-11
+7695,Botafogo-rj,Athlético-pr,14,1,10619,19,0,11380,19,7
+7696,Goiás,Vasco,14,-1,6168,17,-9,9360,14,-6
+7697,Csa,Fortaleza,14,-1,2850,8,-17,4222,14,-6
+7698,Grêmio,Palmeiras,15,0,14936,17,-2,16914,29,14
+7699,Athlético-pr,Atlético-mg,15,1,11380,19,6,13352,27,7
+7700,Corinthians,Botafogo-rj,15,1,14208,24,7,10619,22,1
+7701,Vasco,Flamengo,15,-1,9360,17,-5,13850,27,11
+7702,Fortaleza,Internacional,15,-1,4222,17,-4,10902,21,4
+7703,Bahia,Goiás,15,0,8862,20,2,6168,17,-10
+7704,Chapecoense,Avaí,15,1,10706,10,-12,6394,6,-13
+7705,Cruzeiro,Santos,15,1,15822,11,-11,14682,32,13
+7706,Fluminense,Csa,15,-1,10034,12,-5,2850,8,-19
+7707,São paulo,Ceará,15,1,10508,27,10,6274,20,6
+7708,Athlético-pr,São paulo,13,-1,11380,19,8,10508,21,8
+7709,Atlético-mg,Bahia,16,-1,13352,27,6,8862,21,2
+7710,Grêmio,Athlético-pr,16,1,14936,18,-2,11380,22,7
+7711,Avaí,Corinthians,16,0,6394,6,-14,14208,27,9
+7712,Csa,Cruzeiro,16,0,2850,11,-18,15822,14,-9
+7713,Santos,Fortaleza,16,0,14682,32,11,4222,17,-5
+7714,Ceará,Flamengo,16,-1,6274,20,5,13850,30,14
+7715,Goiás,Internacional,16,1,6168,18,-10,10902,24,5
+7716,Vasco,São paulo,16,1,9360,17,-8,10508,30,11
+7717,Botafogo-rj,Chapecoense,16,0,10619,22,-1,10706,13,-11
+7718,São paulo,Grêmio,17,0,10508,30,9,14936,21,-1
+7719,Athlético-pr,Ceará,17,1,11380,22,6,6274,20,2
+7720,Bahia,Csa,17,1,8862,24,3,2850,12,-18
+7721,Internacional,Botafogo-rj,17,1,10902,24,4,10619,23,-1
+7722,Chapecoense,Santos,17,-1,10706,14,-11,14682,33,11
+7723,Corinthians,Atlético-mg,17,1,14208,28,9,13352,27,5
+7724,Cruzeiro,Vasco,17,1,15822,15,-9,9360,20,-6
+7725,Flamengo,Palmeiras,17,1,13850,33,17,16914,33,17
+7726,Fortaleza,Goiás,17,1,4222,18,-5,6168,21,-9
+7727,Fluminense,Avaí,17,-1,10034,12,-9,6394,7,-14
+7728,Corinthians,Ceará,18,0,14208,31,10,6274,20,1
+7729,Vasco,Bahia,18,-1,9360,20,-7,8862,27,4
+7730,Avaí,Flamengo,18,-1,6394,10,-13,13850,36,20
+7731,Fortaleza,Fluminense,18,-1,4222,21,-3,10034,12,-10
+7732,Internacional,São paulo,18,1,10902,27,5,10508,31,9
+7733,Goiás,Palmeiras,18,-1,6168,21,-11,16914,33,14
+7734,Santos,Athlético-pr,18,0,14682,36,12,11380,25,7
+7735,Botafogo-rj,Atlético-mg,18,1,10619,23,-2,13352,27,4
+7736,Csa,Chapecoense,18,1,2850,12,-19,10706,14,-12
+7737,Cruzeiro,Grêmio,18,-1,15822,18,-8,14936,22,-1
+7738,Palmeiras,Fluminense,16,1,16914,30,14,10034,12,-6
+7739,Ceará,Botafogo-rj,19,0,6274,21,1,10619,26,-1
+7740,Flamengo,Santos,19,1,13850,39,23,14682,37,12
+7741,Palmeiras,Cruzeiro,19,1,16914,36,15,15822,18,-11
+7742,Chapecoense,Vasco,19,-1,10706,14,-14,9360,20,-9
+7743,São paulo,Csa,19,0,10508,31,8,2850,15,-17
+7744,Bahia,Fortaleza,19,0,8862,30,6,4222,21,-4
+7745,Athlético-pr,Avaí,19,-1,11380,26,7,6394,10,-16
+7746,Fluminense,Corinthians,19,1,10034,15,-9,14208,32,10
+7747,Grêmio,Goiás,19,1,14936,25,2,6168,21,-12
+7748,Atlético-mg,Internacional,19,-1,13352,27,3,10902,30,6
+7749,Corinthians,Bahia,20,1,14208,32,9,8862,31,6
+7750,Cruzeiro,Flamengo,20,-1,15822,18,-12,13850,42,24
+7751,Santos,Grêmio,20,-1,14682,37,11,14936,28,5
+7752,Botafogo-rj,São paulo,20,-1,10619,27,-1,10508,32,8
+7753,Vasco,Athlético-pr,20,0,9360,23,-8,11380,26,6
+7754,Csa,Ceará,20,1,2850,16,-17,6274,22,1
+7755,Goiás,Fluminense,20,1,6168,21,-15,10034,18,-8
+7756,Internacional,Chapecoense,20,1,10902,33,8,10706,14,-15
+7757,Fortaleza,Palmeiras,20,-1,4222,22,-4,16914,39,16
+7758,Avaí,Atlético-mg,20,1,6394,13,-15,13352,27,1
+7759,Ceará,Cruzeiro,21,0,6274,22,0,15822,18,-13
+7760,Bahia,Botafogo-rj,21,1,8862,31,5,10619,27,-2
+7761,Flamengo,Internacional,21,1,13850,45,25,10902,36,9
+7762,São paulo,Goiás,21,-1,10508,35,9,6168,24,-12
+7763,Fluminense,Santos,21,0,10034,18,-11,14682,37,8
+7764,Athlético-pr,Fortaleza,21,1,11380,27,6,4222,22,-5
+7765,Grêmio,Avaí,21,1,14936,31,8,6394,16,-14
+7766,Palmeiras,Csa,21,1,16914,42,17,2850,19,-16
+7767,Flamengo,São paulo,22,0,13850,48,27,10508,35,8
+7768,Athlético-pr,Chapecoense,22,0,11380,30,9,10706,14,-17
+7769,Internacional,Palmeiras,22,0,10902,36,7,16914,45,21
+7770,Atlético-mg,Ceará,22,1,13352,27,-1,6274,23,0
+7771,Corinthians,Vasco,22,1,14208,38,11,9360,27,-7
+7772,Fluminense,Grêmio,22,1,10034,19,-11,14936,34,13
+7773,Santos,Csa,22,1,14682,38,8,2850,19,-20
+7774,Avaí,Bahia,22,-1,6394,16,-19,8862,34,7
+7775,Fortaleza,Botafogo-rj,22,1,4222,22,-8,10619,27,-4
+7776,Goiás,Cruzeiro,22,1,6168,27,-11,15822,19,-13
+7777,Chapecoense,Corinthians,21,-1,10706,14,-16,14208,35,10
+7778,Atlético-mg,Vasco,21,-1,13352,27,0,9360,24,-8
+7779,Grêmio,Corinthians,23,0,14936,34,12,14208,41,12
+7780,Cruzeiro,Internacional,23,0,15822,19,-14,10902,37,7
+7781,Bahia,Athlético-pr,23,-1,8862,37,9,11380,31,9
+7782,Vasco,Santos,23,-1,9360,27,-8,14682,41,10
+7783,São paulo,Fortaleza,23,1,10508,36,8,4222,25,-7
+7784,Palmeiras,Atlético-mg,23,0,16914,46,21,13352,30,0
+7785,Csa,Avaí,23,1,2850,19,-22,6394,16,-21
+7786,Chapecoense,Flamengo,23,-1,10706,15,-17,13850,49,27
+7787,Botafogo-rj,Fluminense,23,-1,10619,27,-5,10034,22,-10
+7788,Ceará,Goiás,23,-1,6274,23,-1,6168,30,-10
+7789,Cruzeiro,Fluminense,24,0,15822,20,-14,10034,25,-9
+7790,Bahia,São paulo,24,0,8862,37,8,10508,39,9
+7791,Botafogo-rj,Goiás,24,1,10619,27,-6,6168,33,-9
+7792,Csa,Internacional,24,1,2850,22,-20,10902,38,7
+7793,Fortaleza,Chapecoense,24,1,4222,25,-8,10706,15,-18
+7794,Grêmio,Ceará,24,1,14936,35,12,6274,23,-2
+7795,Santos,Palmeiras,24,1,14682,44,11,16914,47,21
+7796,Corinthians,Athlético-pr,24,0,14208,42,12,11380,34,10
+7797,Avaí,Vasco,24,0,6394,16,-23,9360,27,-9
+7798,Flamengo,Atlético-mg,24,1,13850,52,28,13352,31,0
+7799,Fluminense,Bahia,25,1,10034,26,-9,8862,38,8
+7800,Goiás,Csa,25,1,6168,33,-11,2850,25,-19
+7801,Palmeiras,Botafogo-rj,25,1,16914,47,19,10619,30,-4
+7802,Chapecoense,Cruzeiro,25,0,10706,15,-20,15822,21,-14
+7803,Internacional,Santos,25,0,10902,38,6,14682,47,13
+7804,Ceará,Avaí,25,1,6274,23,-3,6394,17,-23
+7805,Athlético-pr,Flamengo,25,-1,11380,35,10,13850,55,30
+7806,Atlético-mg,Grêmio,25,-1,13352,31,-2,14936,38,13
+7807,São paulo,Corinthians,25,1,10508,40,9,14208,43,12
+7808,Vasco,Fortaleza,25,1,9360,28,-9,4222,28,-6
+7809,Csa,Atlético-mg,26,0,2850,25,-20,13352,31,-5
+7810,Goiás,Corinthians,26,0,6168,36,-10,14208,43,11
+7811,Grêmio,Bahia,26,-1,14936,41,16,8862,38,6
+7812,Cruzeiro,São paulo,26,1,15822,22,-14,10508,43,10
+7813,Fortaleza,Flamengo,26,-1,4222,28,-7,13850,58,32
+7814,Palmeiras,Chapecoense,26,1,16914,50,20,10706,16,-20
+7815,Vasco,Botafogo-rj,26,1,9360,31,-8,10619,30,-5
+7816,Fluminense,Athlético-pr,26,-1,10034,29,-7,11380,35,8
+7817,Avaí,Internacional,26,-1,6394,17,-24,10902,39,6
+7818,Santos,Ceará,26,1,14682,48,13,6274,26,-2
+7819,Corinthians,Cruzeiro,27,-1,14208,44,11,15822,25,-13
+7820,Fortaleza,Grêmio,27,1,4222,28,-8,14936,41,15
+7821,Chapecoense,Goiás,27,0,10706,16,-21,6168,37,-10
+7822,Athlético-pr,Palmeiras,27,0,11380,38,9,16914,53,21
+7823,Atlético-mg,Santos,27,1,13352,32,-5,14682,51,14
+7824,Flamengo,Fluminense,27,1,13850,61,33,10034,29,-8
+7825,São paulo,Avaí,27,1,10508,43,9,6394,17,-26
+7826,Internacional,Vasco,27,-1,10902,42,8,9360,34,-7
+7827,Botafogo-rj,Csa,27,1,10619,30,-6,2850,26,-20
+7828,Bahia,Ceará,27,-1,8862,41,7,6274,26,-3
+7829,Fluminense,Chapecoense,28,0,10034,29,-10,10706,17,-21
+7830,Cruzeiro,Fortaleza,28,0,15822,28,-12,4222,31,-7
+7831,Corinthians,Santos,28,0,14208,44,10,14682,51,12
+7832,Ceará,Vasco,28,0,6274,29,-2,9360,37,-6
+7833,Bahia,Internacional,28,-1,8862,41,6,10902,42,7
+7834,Athlético-pr,Goiás,28,1,11380,39,9,6168,38,-10
+7835,Flamengo,Csa,28,1,13850,64,35,2850,26,-21
+7836,Grêmio,Botafogo-rj,28,1,14936,41,14,10619,33,-5
+7837,Avaí,Palmeiras,28,-1,6394,17,-27,16914,54,21
+7838,São paulo,Atlético-mg,28,1,10508,46,10,13352,35,-3
+7839,Ceará,Fluminense,29,1,6274,30,-2,10034,30,-10
+7840,Atlético-mg,Chapecoense,29,-1,13352,35,-5,10706,18,-21
+7841,Csa,Corinthians,29,1,2850,26,-22,14208,45,10
+7842,Avaí,Fortaleza,29,-1,6394,17,-28,4222,32,-7
+7843,Vasco,Grêmio,29,-1,9360,38,-6,14936,44,17
+7844,Palmeiras,São paulo,29,1,16914,57,22,10508,49,12
+7845,Internacional,Athlético-pr,29,0,10902,45,8,11380,42,12
+7846,Goiás,Flamengo,29,0,6168,38,-13,13850,67,36
+7847,Botafogo-rj,Cruzeiro,29,-1,10619,33,-8,15822,29,-12
+7848,Santos,Bahia,29,1,14682,52,12,8862,41,5
+7849,Fortaleza,Atlético-mg,30,0,4222,35,-5,13352,35,-7
+7850,Fluminense,Vasco,30,0,10034,30,-12,9360,38,-8
+7851,Palmeiras,Ceará,30,1,16914,60,25,6274,33,0
+7852,Chapecoense,São paulo,30,-1,10706,21,-19,10508,49,9
+7853,Cruzeiro,Bahia,30,0,15822,32,-10,8862,41,4
+7854,Athlético-pr,Csa,30,1,11380,43,12,2850,29,-21
+7855,Flamengo,Corinthians,30,1,13850,68,36,14208,45,9
+7856,Goiás,Avaí,30,1,6168,39,-13,6394,17,-30
+7857,Grêmio,Internacional,30,1,14936,47,19,10902,46,8
+7858,Santos,Botafogo-rj,30,1,14682,55,13,10619,33,-10
+7859,Bahia,Chapecoense,31,0,8862,42,4,10706,21,-22
+7860,Athlético-pr,Cruzeiro,31,0,11380,46,13,15822,33,-10
+7861,Atlético-mg,Goiás,31,1,13352,36,-7,6168,42,-11
+7862,Corinthians,Fortaleza,31,1,14208,45,6,4222,36,-5
+7863,Vasco,Palmeiras,31,-1,9360,39,-8,16914,63,26
+7864,Avaí,Santos,31,-1,6394,17,-32,14682,58,16
+7865,Ceará,Internacional,31,1,6274,33,-1,10902,46,6
+7866,Botafogo-rj,Flamengo,31,-1,10619,33,-13,13850,71,39
+7867,São paulo,Fluminense,31,-1,10508,52,12,10034,31,-12
+7868,Grêmio,Csa,31,1,14936,50,21,2850,29,-22
+7869,Palmeiras,Corinthians,32,0,16914,66,27,14208,48,7
+7870,Goiás,Santos,32,-1,6168,42,-13,14682,61,17
+7871,Cruzeiro,Atlético-mg,32,0,15822,34,-10,13352,39,-5
+7872,São paulo,Athlético-pr,32,-1,10508,52,10,11380,47,13
+7873,Flamengo,Bahia,32,1,13850,74,40,8862,43,4
+7874,Fortaleza,Ceará,32,1,4222,36,-6,6274,36,1
+7875,Chapecoense,Grêmio,32,-1,10706,22,-22,14936,53,22
+7876,Internacional,Fluminense,32,1,10902,46,4,10034,34,-10
+7877,Csa,Vasco,32,-1,2850,29,-23,9360,39,-9
+7878,Botafogo-rj,Avaí,32,1,10619,33,-14,6394,17,-33
+7879,Flamengo,Vasco,34,0,13850,80,43,9360,43,-6
+7880,Fluminense,Atlético-mg,33,0,10034,34,-11,13352,40,-5
+7881,Santos,São paulo,33,0,14682,64,20,10508,52,9
+7882,Corinthians,Internacional,33,0,14208,49,7,10902,49,5
+7883,Bahia,Palmeiras,33,0,8862,43,2,16914,67,27
+7884,Athlético-pr,Botafogo-rj,33,1,11380,50,14,10619,36,-12
+7885,Chapecoense,Ceará,33,1,10706,22,-23,6274,36,0
+7886,Grêmio,Flamengo,33,-1,14936,56,23,13850,77,42
+7887,Fortaleza,Csa,33,1,4222,39,-5,2850,29,-26
+7888,Cruzeiro,Avaí,33,0,15822,35,-10,6394,17,-35
+7889,Vasco,Goiás,33,0,9360,42,-6,6168,42,-16
+7890,Santos,Cruzeiro,34,1,14682,65,20,15822,36,-10
+7891,Internacional,Fortaleza,34,0,10902,50,5,4222,42,-2
+7892,Ceará,São paulo,34,0,6274,36,-1,10508,53,9
+7893,Atlético-mg,Athlético-pr,34,-1,13352,41,-5,11380,53,15
+7894,Botafogo-rj,Corinthians,34,1,10619,36,-13,14208,50,7
+7895,Avaí,Chapecoense,34,-1,6394,18,-35,10706,25,-22
+7896,Goiás,Bahia,34,1,6168,43,-16,8862,44,2
+7897,Palmeiras,Grêmio,34,-1,16914,68,27,14936,56,22
+7898,Csa,Fluminense,34,-1,2850,29,-29,10034,35,-11
+7899,Bahia,Atlético-mg,35,0,8862,44,1,13352,41,-6
+7900,Athlético-pr,Grêmio,35,1,11380,56,16,14936,59,23
+7901,Chapecoense,Botafogo-rj,35,-1,10706,28,-21,10619,39,-12
+7902,Corinthians,Avaí,35,1,14208,50,6,6394,18,-36
+7903,Flamengo,Ceará,35,1,13850,81,43,6274,37,-1
+7904,Internacional,Goiás,35,-1,10902,51,5,6168,46,-15
+7905,Cruzeiro,Csa,35,-1,15822,36,-13,2850,29,-30
+7906,Fluminense,Palmeiras,35,1,10034,38,-10,16914,68,26
+7907,Fortaleza,Santos,35,1,4222,43,-2,14682,68,23
+7908,São paulo,Vasco,35,1,10508,54,9,9360,44,-6
+7909,Ceará,Athlético-pr,36,0,6274,37,-4,11380,59,18
+7910,Botafogo-rj,Internacional,36,-1,10619,42,-11,10902,51,4
+7911,Avaí,Fluminense,36,0,6394,18,-39,10034,41,-9
+7912,Atlético-mg,Corinthians,36,1,13352,42,-6,14208,53,9
+7913,Csa,Bahia,36,-1,2850,32,-29,8862,45,1
+7914,Palmeiras,Flamengo,36,-1,16914,68,25,13850,84,46
+7915,Goiás,Fortaleza,36,-1,6168,49,-14,4222,46,-1
+7916,Grêmio,São paulo,36,1,14936,59,21,10508,57,10
+7917,Santos,Chapecoense,36,1,14682,68,22,10706,28,-22
+7918,Vasco,Cruzeiro,36,1,9360,44,-7,15822,36,-14
+7919,Fluminense,Fortaleza,37,0,10034,42,-9,4222,49,0
+7920,Athlético-pr,Santos,37,1,11380,60,18,14682,71,24
+7921,Atlético-mg,Botafogo-rj,37,1,13352,45,-5,10619,42,-12
+7922,Chapecoense,Csa,37,1,10706,28,-24,2850,32,-30
+7923,Ceará,Corinthians,37,-1,6274,38,-4,14208,53,8
+7924,São paulo,Internacional,37,1,10508,57,7,10902,54,5
+7925,Bahia,Vasco,37,0,8862,48,2,9360,47,-6
+7926,Flamengo,Avaí,37,1,13850,87,48,6394,19,-39
+7927,Grêmio,Cruzeiro,37,1,14936,62,24,15822,36,-15
+7928,Palmeiras,Goiás,37,1,16914,68,23,6168,49,-15
+7929,Avaí,Athlético-pr,38,0,6394,19,-44,11380,63,19
+7930,Botafogo-rj,Ceará,38,0,10619,42,-14,6274,38,-5
+7931,Vasco,Chapecoense,38,0,9360,48,-6,10706,31,-21
+7932,Corinthians,Fluminense,38,-1,14208,56,9,10034,43,-9
+7933,Fortaleza,Bahia,38,1,4222,50,0,8862,49,2
+7934,Goiás,Grêmio,38,1,6168,49,-19,14936,65,26
+7935,Internacional,Atlético-mg,38,1,10902,54,4,13352,48,-3
+7936,Cruzeiro,Palmeiras,38,-1,15822,36,-17,16914,71,27
+7937,Santos,Flamengo,38,1,14682,71,23,13850,90,53
+7938,Csa,São paulo,38,-1,2850,32,-33,10508,60,8

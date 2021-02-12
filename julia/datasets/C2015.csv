@@ -1,0 +1,381 @@
+,Mandante,Visitante,Rodada,Classe,ranking_mandante,pontos_mandante,saldo_mandante,ranking_visitante,pontos_visitante,saldo_visitante
+6039,Palmeiras,Atlético-mg,1,0,11584,0,0,13224,0,0
+6040,Chapecoense,Coritiba,1,1,5150,0,0,11036,0,0
+6041,Fluminense,Joinville,1,1,12708,0,0,4699,0,0
+6042,Vasco,Goiás,1,0,12132,0,0,10525,0,0
+6043,Grêmio,Ponte preta,1,0,13992,0,0,7440,0,0
+6044,Avaí,Santos,1,0,6364,0,0,13530,0,0
+6045,Athlético-pr,Internacional,1,1,12524,0,0,12628,0,0
+6046,Cruzeiro,Corinthians,1,-1,15328,0,0,14680,0,0
+6047,São paulo,Flamengo,1,1,12738,0,0,14578,0,0
+6048,Sport,Figueirense,1,1,6970,0,0,6898,0,0
+6049,Corinthians,Chapecoense,2,1,14680,3,1,5150,3,1
+6050,Coritiba,Grêmio,2,1,11036,0,-1,13992,1,0
+6051,Goiás,Athlético-pr,2,1,10525,1,0,12524,3,3
+6052,Joinville,Palmeiras,2,0,4699,0,-1,11584,1,0
+6053,Flamengo,Sport,2,0,14578,0,-1,6970,3,3
+6054,Figueirense,Vasco,2,0,6898,0,-3,12132,1,0
+6055,Atlético-mg,Fluminense,2,1,13224,1,0,12708,3,1
+6056,Internacional,Avaí,2,1,12628,0,-3,6364,1,0
+6057,Ponte preta,São paulo,2,1,7440,1,0,12738,3,1
+6058,Santos,Cruzeiro,2,1,13530,1,0,15328,0,-1
+6059,Vasco,Internacional,3,0,12132,2,0,12628,3,-2
+6060,Grêmio,Figueirense,3,1,13992,1,-2,6898,1,-3
+6061,São paulo,Joinville,3,1,12738,3,0,4699,1,-1
+6062,Fluminense,Corinthians,3,0,12708,3,-2,14680,6,2
+6063,Cruzeiro,Ponte preta,3,0,15328,0,-2,7440,4,1
+6064,Athlético-pr,Atlético-mg,3,1,12524,3,1,13224,4,3
+6065,Avaí,Flamengo,3,1,6364,1,-1,14578,1,-1
+6066,Chapecoense,Santos,3,1,5150,3,0,13530,4,1
+6067,Palmeiras,Goiás,3,-1,11584,2,0,10525,4,2
+6068,Sport,Coritiba,3,1,6970,4,3,11036,3,1
+6069,Joinville,Athlético-pr,4,-1,4699,1,-4,12524,6,2
+6070,Coritiba,Avaí,4,-1,11036,3,0,6364,4,0
+6071,Ponte preta,Chapecoense,4,1,7440,5,1,5150,6,1
+6072,Goiás,Grêmio,4,0,10525,7,3,13992,4,-1
+6073,Internacional,São paulo,4,0,12628,4,-2,12738,6,3
+6074,Santos,Sport,4,0,13530,4,0,6970,7,4
+6075,Atlético-mg,Vasco,4,1,13224,4,2,12132,3,0
+6076,Figueirense,Cruzeiro,4,1,6898,1,-4,15328,1,-2
+6077,Flamengo,Fluminense,4,-1,14578,1,-2,12708,4,-2
+6078,Corinthians,Palmeiras,4,-1,14680,7,2,11584,2,-1
+6079,Avaí,Atlético-mg,5,-1,6364,7,1,13224,7,5
+6080,Athlético-pr,Figueirense,5,1,12524,9,3,6898,4,-3
+6081,Chapecoense,Joinville,5,1,5150,6,-1,4699,1,-5
+6082,Cruzeiro,Flamengo,5,1,15328,1,-3,14578,1,-3
+6083,Grêmio,Corinthians,5,1,13992,5,-1,14680,7,0
+6084,Vasco,Ponte preta,5,-1,12132,3,-3,7440,8,3
+6085,São paulo,Santos,5,1,12738,7,3,13530,5,0
+6086,Palmeiras,Internacional,5,0,11584,5,1,12628,5,-2
+6087,Fluminense,Coritiba,5,1,12708,7,-1,11036,3,-1
+6088,Sport,Goiás,5,1,6970,8,4,10525,8,3
+6089,Santos,Ponte preta,6,0,13530,5,-1,7440,11,6
+6090,Athlético-pr,Vasco,6,1,12524,12,4,12132,3,-6
+6091,Joinville,Corinthians,6,-1,4699,1,-7,14680,7,-2
+6092,Atlético-mg,Cruzeiro,6,-1,13224,10,8,15328,4,-2
+6093,Flamengo,Chapecoense,6,1,14578,1,-4,5150,9,1
+6094,São paulo,Grêmio,6,1,12738,10,4,13992,8,1
+6095,Fluminense,Sport,6,0,12708,10,1,6970,11,5
+6096,Goiás,Avaí,6,-1,10525,8,2,6364,7,-2
+6097,Figueirense,Palmeiras,6,1,6898,4,-4,11584,6,1
+6098,Internacional,Coritiba,6,1,12628,6,-2,11036,3,-3
+6099,Atlético-mg,Santos,7,0,13224,10,6,13530,6,-1
+6100,Corinthians,Internacional,7,1,14680,10,-1,12628,9,0
+6101,Vasco,Cruzeiro,7,-1,12132,3,-8,15328,7,0
+6102,Coritiba,Flamengo,7,-1,11036,3,-5,14578,4,-3
+6103,Chapecoense,São paulo,7,-1,5150,9,0,12738,13,6
+6104,Sport,Joinville,7,1,6970,12,5,4699,1,-8
+6105,Avaí,Figueirense,7,0,6364,10,-1,6898,7,-3
+6106,Ponte preta,Goiás,7,0,7440,12,6,10525,8,1
+6107,Grêmio,Athlético-pr,7,1,13992,8,-1,12524,15,6
+6108,Palmeiras,Fluminense,7,1,11584,6,0,12708,11,1
+6109,Figueirense,Internacional,8,0,6898,8,-3,12628,9,-1
+6110,Flamengo,Atlético-mg,8,-1,14578,7,-2,13224,11,6
+6111,Grêmio,Palmeiras,8,1,13992,11,0,11584,9,1
+6112,Santos,Corinthians,8,1,13530,7,-1,14680,13,0
+6113,Sport,Vasco,8,1,6970,15,6,12132,3,-10
+6114,São paulo,Avaí,8,0,12738,16,7,6364,11,-1
+6115,Athlético-pr,Coritiba,8,0,12524,15,5,11036,3,-6
+6116,Cruzeiro,Chapecoense,8,-1,15328,10,2,5150,9,-1
+6117,Joinville,Goiás,8,1,4699,1,-9,10525,9,1
+6118,Fluminense,Ponte preta,8,1,12708,11,0,7440,13,6
+6119,Chapecoense,Sport,9,0,5150,12,0,6970,18,7
+6120,Corinthians,Figueirense,9,1,14680,13,-1,6898,9,-3
+6121,Avaí,Grêmio,9,-1,6364,12,-1,13992,14,1
+6122,Atlético-mg,Joinville,9,1,13224,14,8,4699,4,-8
+6123,Coritiba,Cruzeiro,9,1,11036,4,-6,15328,10,1
+6124,Goiás,Fluminense,9,-1,10525,9,0,12708,14,2
+6125,Internacional,Santos,9,1,12628,10,-1,13530,10,0
+6126,Palmeiras,São paulo,9,1,11584,9,0,12738,17,7
+6127,Ponte preta,Athlético-pr,9,1,7440,13,4,12524,16,5
+6128,Vasco,Flamengo,9,1,12132,3,-11,14578,7,-4
+6129,Atlético-mg,Coritiba,10,1,13224,17,9,11036,7,-5
+6130,Athlético-pr,São paulo,10,1,12524,16,4,12738,17,3
+6131,Joinville,Flamengo,10,-1,4699,4,-9,14578,7,-5
+6132,Grêmio,Cruzeiro,10,1,13992,17,2,15328,10,0
+6133,Palmeiras,Chapecoense,10,1,11584,12,4,5150,13,0
+6134,Sport,Internacional,10,1,6970,19,7,12628,13,0
+6135,Vasco,Avaí,10,1,12132,6,-10,6364,12,-2
+6136,Corinthians,Ponte preta,10,1,14680,16,0,7440,16,5
+6137,Figueirense,Goiás,10,1,6898,9,-4,10525,9,-1
+6138,Fluminense,Santos,10,1,12708,17,3,13530,10,-1
+6139,Coritiba,Joinville,11,0,11036,7,-7,4699,4,-10
+6140,Chapecoense,Vasco,11,1,5150,13,-2,12132,9,-9
+6141,Cruzeiro,Athlético-pr,11,1,15328,10,-1,12524,19,5
+6142,Goiás,Corinthians,11,0,10525,9,-3,14680,19,2
+6143,São paulo,Fluminense,11,0,12738,17,2,12708,20,4
+6144,Avaí,Sport,11,0,6364,12,-3,6970,22,10
+6145,Internacional,Atlético-mg,11,-1,12628,13,-3,13224,20,11
+6146,Flamengo,Figueirense,11,-1,14578,10,-4,6898,12,-2
+6147,Santos,Grêmio,11,-1,13530,10,-2,13992,20,3
+6148,Ponte preta,Palmeiras,11,-1,7440,16,3,11584,15,6
+6149,Coritiba,Ponte preta,12,0,11036,8,-7,7440,16,1
+6150,Atlético-mg,Sport,12,1,13224,23,13,6970,23,10
+6151,Chapecoense,Grêmio,12,1,5150,16,-1,13992,23,5
+6152,Internacional,Flamengo,12,-1,12628,13,-5,14578,10,-5
+6153,Goiás,Santos,12,1,10525,10,-3,13530,10,-4
+6154,Figueirense,Joinville,12,-1,6898,15,-1,4699,5,-10
+6155,Palmeiras,Avaí,12,1,11584,18,8,6364,13,-3
+6156,Vasco,São paulo,12,-1,12132,9,-10,12738,18,2
+6157,Corinthians,Athlético-pr,12,1,14680,20,2,12524,19,3
+6158,Fluminense,Cruzeiro,12,1,12708,21,4,15328,13,1
+6159,Ponte preta,Atlético-mg,13,-1,7440,17,1,13224,26,14
+6160,Grêmio,Vasco,13,1,13992,23,4,12132,9,-14
+6161,Santos,Figueirense,13,1,13530,10,-7,6898,15,-3
+6162,Sport,Palmeiras,13,0,6970,23,9,11584,21,11
+6163,Avaí,Chapecoense,13,1,6364,13,-6,5150,19,0
+6164,Flamengo,Corinthians,13,-1,14578,13,-4,14680,23,4
+6165,Cruzeiro,Goiás,13,1,15328,13,0,10525,13,0
+6166,Athlético-pr,Fluminense,13,-1,12524,19,1,12708,24,5
+6167,Joinville,Internacional,13,-1,4699,8,-8,12628,13,-6
+6168,São paulo,Coritiba,13,1,12738,21,6,11036,9,-7
+6169,Corinthians,Atlético-mg,14,1,14680,26,7,13224,29,16
+6170,Flamengo,Grêmio,14,1,14578,13,-7,13992,26,6
+6171,Internacional,Goiás,14,1,12628,16,-4,10525,13,-1
+6172,Cruzeiro,Avaí,14,0,15328,16,1,6364,16,-5
+6173,Figueirense,Coritiba,14,0,6898,15,-6,11036,9,-9
+6174,Joinville,Ponte preta,14,0,4699,8,-10,7440,17,-1
+6175,Athlético-pr,Chapecoense,14,1,12524,19,0,5150,19,-1
+6176,Palmeiras,Santos,14,1,11584,22,11,13530,13,-4
+6177,Sport,São paulo,14,1,6970,24,9,12738,24,8
+6178,Fluminense,Vasco,14,-1,12708,27,6,12132,9,-16
+6179,Grêmio,Sport,15,0,13992,26,5,6970,27,11
+6180,Atlético-mg,Figueirense,15,1,13224,29,15,6898,16,-6
+6181,Avaí,Athlético-pr,15,-1,6364,17,-5,12524,22,1
+6182,Coritiba,Corinthians,15,0,11036,10,-9,14680,29,8
+6183,Ponte preta,Internacional,15,0,7440,18,-1,12628,19,-3
+6184,Chapecoense,Fluminense,15,1,5150,19,-2,12708,27,5
+6185,Goiás,Flamengo,15,-1,10525,13,-2,14578,16,-6
+6186,Vasco,Palmeiras,15,-1,12132,12,-15,11584,25,12
+6187,Santos,Joinville,15,1,13530,13,-5,4699,9,-10
+6188,São paulo,Cruzeiro,15,1,12738,24,6,15328,17,1
+6189,Atlético-mg,São paulo,16,1,13224,32,16,12738,27,7
+6190,Corinthians,Vasco,16,1,14680,30,8,12132,12,-18
+6191,Fluminense,Grêmio,16,1,12708,27,4,13992,27,5
+6192,Internacional,Chapecoense,16,0,12628,20,-3,5150,22,-1
+6193,Sport,Cruzeiro,16,0,6970,28,11,15328,17,0
+6194,Coritiba,Goiás,16,0,11036,11,-9,10525,13,-3
+6195,Flamengo,Santos,16,0,14578,19,-5,13530,16,-3
+6196,Palmeiras,Athlético-pr,16,-1,11584,28,15,12524,25,2
+6197,Figueirense,Ponte preta,16,1,6898,16,-7,7440,19,-1
+6198,Joinville,Avaí,16,1,4699,9,-12,6364,17,-6
+6199,Avaí,Fluminense,17,1,6364,17,-8,12708,30,5
+6200,Santos,Coritiba,17,1,13530,17,-3,11036,12,-9
+6201,Goiás,Atlético-mg,17,0,10525,14,-3,13224,35,18
+6202,São paulo,Corinthians,17,0,12738,27,5,14680,33,11
+6203,Chapecoense,Figueirense,17,0,5150,23,-1,6898,19,-5
+6204,Vasco,Joinville,17,0,12132,12,-21,4699,12,-10
+6205,Athlético-pr,Sport,17,0,12524,28,3,6970,29,11
+6206,Cruzeiro,Palmeiras,17,1,15328,18,0,11584,28,14
+6207,Grêmio,Internacional,17,1,13992,27,4,12628,21,-3
+6208,Ponte preta,Flamengo,17,1,7440,19,-3,14578,20,-5
+6209,Goiás,Chapecoense,18,0,10525,15,-3,5150,24,-1
+6210,Corinthians,Sport,18,1,14680,34,11,6970,30,11
+6211,Coritiba,Palmeiras,18,1,11036,12,-12,11584,28,13
+6212,Flamengo,Athlético-pr,18,1,14578,20,-6,12524,29,3
+6213,Internacional,Fluminense,18,1,12628,21,-8,12708,30,4
+6214,Santos,Vasco,18,1,13530,20,0,12132,13,-21
+6215,Figueirense,São paulo,18,-1,6898,20,-5,12738,28,5
+6216,Atlético-mg,Grêmio,18,-1,13224,36,18,13992,30,9
+6217,Joinville,Cruzeiro,18,1,4699,13,-10,15328,21,1
+6218,Ponte preta,Avaí,18,1,7440,22,-2,6364,20,-7
+6219,Athlético-pr,Santos,19,0,12524,29,2,13530,23,1
+6220,Vasco,Coritiba,19,-1,12132,13,-22,11036,15,-11
+6221,São paulo,Goiás,19,-1,12738,31,7,10525,16,-3
+6222,Cruzeiro,Internacional,19,0,15328,21,-2,12628,24,-7
+6223,Sport,Ponte preta,19,0,6970,30,10,7440,25,0
+6224,Chapecoense,Atlético-mg,19,1,5150,25,-1,13224,36,16
+6225,Avaí,Corinthians,19,-1,6364,20,-9,14680,37,12
+6226,Fluminense,Figueirense,19,1,12708,30,3,6898,20,-7
+6227,Grêmio,Joinville,19,1,13992,33,11,4699,16,-7
+6228,Palmeiras,Flamengo,19,1,11584,28,12,14578,23,-5
+6229,Figueirense,Sport,20,1,6898,20,-8,6970,31,10
+6230,Goiás,Vasco,20,1,10525,19,0,12132,13,-23
+6231,Santos,Avaí,20,1,13530,24,1,6364,20,-10
+6232,Ponte preta,Grêmio,20,0,7440,26,0,13992,36,12
+6233,Atlético-mg,Palmeiras,20,1,13224,36,15,11584,31,14
+6234,Corinthians,Cruzeiro,20,1,14680,40,13,15328,22,-2
+6235,Coritiba,Chapecoense,20,1,11036,18,-10,5150,28,0
+6236,Flamengo,São paulo,20,1,14578,23,-7,12738,31,4
+6237,Internacional,Athlético-pr,20,1,12628,25,-7,12524,30,2
+6238,Joinville,Fluminense,20,1,4699,16,-8,12708,33,4
+6239,Vasco,Figueirense,21,-1,12132,13,-26,6898,23,-7
+6240,São paulo,Ponte preta,21,1,12738,31,3,7440,27,0
+6241,Grêmio,Coritiba,21,0,13992,37,12,11036,21,-9
+6242,Fluminense,Atlético-mg,21,-1,12708,33,3,13224,39,16
+6243,Athlético-pr,Goiás,21,1,12524,30,0,10525,22,3
+6244,Avaí,Internacional,21,1,6364,20,-13,12628,28,-5
+6245,Chapecoense,Corinthians,21,-1,5150,28,-1,14680,43,16
+6246,Sport,Flamengo,21,-1,6970,31,9,14578,26,-6
+6247,Palmeiras,Joinville,21,1,11584,31,13,4699,19,-7
+6248,Cruzeiro,Santos,21,-1,15328,22,-5,13530,27,4
+6249,Joinville,São paulo,22,0,4699,19,-8,12738,34,6
+6250,Coritiba,Sport,22,0,11036,22,-9,6970,31,8
+6251,Atlético-mg,Athlético-pr,22,-1,13224,42,17,12524,33,3
+6252,Corinthians,Fluminense,22,1,14680,46,18,12708,33,2
+6253,Ponte preta,Cruzeiro,22,-1,7440,27,-3,15328,22,-6
+6254,Flamengo,Avaí,22,1,14578,29,-5,6364,23,-10
+6255,Goiás,Palmeiras,22,1,10525,22,0,11584,34,14
+6256,Internacional,Vasco,22,1,12628,28,-8,12132,13,-27
+6257,Figueirense,Grêmio,22,-1,6898,26,-6,13992,38,12
+6258,Santos,Chapecoense,22,1,13530,30,5,5150,28,-3
+6259,Athlético-pr,Joinville,23,0,12524,36,4,4699,20,-8
+6260,Vasco,Atlético-mg,23,-1,12132,13,-33,13224,42,16
+6261,São paulo,Internacional,23,1,12738,35,6,12628,31,-2
+6262,Palmeiras,Corinthians,23,0,11584,34,13,14680,49,20
+6263,Chapecoense,Ponte preta,23,0,5150,28,-5,7440,27,-4
+6264,Sport,Santos,23,0,6970,32,8,13530,33,7
+6265,Avaí,Coritiba,23,-1,6364,23,-13,11036,23,-9
+6266,Cruzeiro,Figueirense,23,1,15328,25,-5,6898,26,-8
+6267,Fluminense,Flamengo,23,-1,12708,33,0,14578,32,-2
+6268,Grêmio,Goiás,23,1,13992,41,14,10525,25,1
+6269,Figueirense,Athlético-pr,24,0,6898,26,-12,12524,37,4
+6270,Coritiba,Fluminense,24,0,11036,26,-7,12708,33,-2
+6271,Corinthians,Grêmio,24,0,14680,50,20,13992,44,15
+6272,Atlético-mg,Avaí,24,1,13224,45,17,6364,23,-15
+6273,Internacional,Palmeiras,24,1,12628,31,-4,11584,35,13
+6274,Santos,São paulo,24,1,13530,34,7,12738,38,8
+6275,Ponte preta,Vasco,24,-1,7440,28,-4,12132,13,-34
+6276,Joinville,Chapecoense,24,0,4699,21,-8,5150,29,-5
+6277,Flamengo,Cruzeiro,24,1,14578,35,0,15328,28,-1
+6278,Goiás,Sport,24,1,10525,25,0,6970,33,8
+6279,Coritiba,Internacional,25,-1,11036,27,-7,12628,34,-3
+6280,Palmeiras,Figueirense,25,1,11584,35,12,6898,27,-12
+6281,Cruzeiro,Atlético-mg,25,0,15328,28,-3,13224,48,19
+6282,Avaí,Goiás,25,1,6364,23,-17,10525,28,1
+6283,Corinthians,Joinville,25,1,14680,51,20,4699,22,-8
+6284,Chapecoense,Flamengo,25,-1,5150,30,-5,14578,38,2
+6285,Ponte preta,Santos,25,1,7440,28,-5,13530,37,10
+6286,Grêmio,São paulo,25,-1,13992,45,15,12738,38,5
+6287,Sport,Fluminense,25,1,6970,33,7,12708,34,-2
+6288,Vasco,Athlético-pr,25,1,12132,16,-33,12524,38,4
+6289,Joinville,Sport,26,0,4699,22,-11,6970,36,8
+6290,Cruzeiro,Vasco,26,0,15328,29,-3,12132,19,-31
+6291,Figueirense,Avaí,26,-1,6898,27,-14,6364,26,-16
+6292,Athlético-pr,Grêmio,26,-1,12524,38,2,13992,45,14
+6293,Internacional,Corinthians,26,1,12628,37,-2,14680,54,23
+6294,Fluminense,Palmeiras,26,-1,12708,34,-3,11584,38,14
+6295,Goiás,Ponte preta,26,-1,10525,28,0,7440,31,-3
+6296,Santos,Atlético-mg,26,1,13530,37,8,13224,49,19
+6297,São paulo,Chapecoense,26,0,12738,41,6,5150,30,-7
+6298,Flamengo,Coritiba,26,-1,14578,41,4,11036,27,-8
+6299,Internacional,Figueirense,27,0,12628,40,-1,6898,27,-15
+6300,Palmeiras,Grêmio,27,1,11584,41,17,13992,48,15
+6301,Ponte preta,Fluminense,27,1,7440,34,-2,12708,34,-6
+6302,Atlético-mg,Flamengo,27,1,13224,49,15,14578,41,2
+6303,Avaí,São paulo,27,1,6364,29,-15,12738,42,6
+6304,Corinthians,Santos,27,1,14680,54,22,13530,40,12
+6305,Coritiba,Athlético-pr,27,1,11036,30,-6,12524,38,1
+6306,Chapecoense,Cruzeiro,27,-1,5150,31,-7,15328,30,-3
+6307,Goiás,Joinville,27,1,10525,28,-1,4699,23,-11
+6308,Vasco,Sport,27,1,12132,20,-31,6970,37,8
+6309,Fluminense,Goiás,28,1,12708,34,-8,10525,31,2
+6310,Grêmio,Avaí,28,1,13992,48,14,6364,32,-14
+6311,Joinville,Atlético-mg,28,0,4699,23,-14,13224,52,18
+6312,São paulo,Palmeiras,28,0,12738,42,5,11584,44,18
+6313,Figueirense,Corinthians,28,-1,6898,28,-15,14680,57,24
+6314,Cruzeiro,Coritiba,28,1,15328,33,-1,11036,33,-4
+6315,Athlético-pr,Ponte preta,28,-1,12524,38,-1,7440,37,0
+6316,Santos,Internacional,28,1,13530,40,10,12628,41,-1
+6317,Sport,Chapecoense,28,1,6970,37,7,5150,31,-9
+6318,Flamengo,Vasco,28,-1,14578,41,-1,12132,23,-30
+6319,Coritiba,Atlético-mg,29,-1,11036,33,-6,13224,53,18
+6320,Internacional,Sport,29,1,12628,41,-3,6970,40,10
+6321,São paulo,Athlético-pr,29,1,12738,43,5,12524,38,-2
+6322,Ponte preta,Corinthians,29,0,7440,40,1,14680,60,26
+6323,Cruzeiro,Grêmio,29,0,15328,36,1,13992,51,16
+6324,Avaí,Vasco,29,0,6364,32,-16,12132,26,-29
+6325,Chapecoense,Palmeiras,29,1,5150,31,-12,11584,45,18
+6326,Goiás,Figueirense,29,-1,10525,31,0,6898,28,-17
+6327,Flamengo,Joinville,29,1,14578,41,-2,4699,24,-14
+6328,Santos,Fluminense,29,1,13530,43,12,12708,37,-6
+6329,Athlético-pr,Cruzeiro,30,0,12524,38,-3,15328,37,1
+6330,Atlético-mg,Internacional,30,1,13224,56,21,12628,44,-2
+6331,Figueirense,Flamengo,30,1,6898,31,-16,14578,44,0
+6332,Fluminense,São paulo,30,1,12708,37,-8,12738,46,6
+6333,Joinville,Coritiba,30,1,4699,24,-16,11036,33,-9
+6334,Palmeiras,Ponte preta,30,-1,11584,45,14,7440,41,1
+6335,Sport,Avaí,30,1,6970,40,9,6364,33,-16
+6336,Vasco,Chapecoense,30,0,12132,27,-29,5150,34,-8
+6337,Corinthians,Goiás,30,1,14680,61,26,10525,31,-1
+6338,Grêmio,Santos,30,1,13992,52,16,13530,46,14
+6339,Joinville,Figueirense,31,1,4699,27,-14,6898,34,-13
+6340,Avaí,Palmeiras,31,-1,6364,33,-19,11584,45,13
+6341,São paulo,Vasco,31,0,12738,46,4,12132,28,-29
+6342,Grêmio,Chapecoense,31,-1,13992,55,17,5150,35,-8
+6343,Athlético-pr,Corinthians,31,-1,12524,39,-3,14680,64,29
+6344,Cruzeiro,Fluminense,31,1,15328,38,1,12708,40,-6
+6345,Flamengo,Internacional,31,-1,14578,44,-3,12628,44,-3
+6346,Ponte preta,Coritiba,31,1,7440,44,2,11036,33,-11
+6347,Santos,Goiás,31,1,13530,46,13,10525,31,-4
+6348,Sport,Atlético-mg,31,1,6970,43,12,13224,59,22
+6349,Figueirense,Santos,32,0,6898,34,-14,13530,49,15
+6350,Fluminense,Athlético-pr,32,-1,12708,40,-8,12524,39,-6
+6351,Internacional,Joinville,32,1,12628,47,-2,4699,30,-13
+6352,Palmeiras,Sport,32,-1,11584,48,15,6970,46,15
+6353,Chapecoense,Avaí,32,0,5150,38,-7,6364,33,-21
+6354,Vasco,Grêmio,32,0,12132,29,-29,13992,55,16
+6355,Atlético-mg,Ponte preta,32,1,13224,59,19,7440,47,5
+6356,Corinthians,Flamengo,32,1,14680,67,32,14578,44,-4
+6357,Goiás,Cruzeiro,32,-1,10525,31,-6,15328,41,3
+6358,Coritiba,São paulo,32,-1,11036,33,-14,12738,47,4
+6359,Avaí,Cruzeiro,33,0,6364,34,-21,15328,44,4
+6360,Coritiba,Figueirense,33,0,11036,33,-15,6898,35,-14
+6361,Ponte preta,Joinville,33,1,7440,47,4,4699,30,-14
+6362,São paulo,Sport,33,1,12738,50,5,6970,49,17
+6363,Chapecoense,Athlético-pr,33,0,5150,39,-7,12524,42,-5
+6364,Atlético-mg,Corinthians,33,-1,13224,62,20,14680,70,33
+6365,Vasco,Fluminense,33,-1,12132,30,-29,12708,40,-9
+6366,Goiás,Internacional,33,1,10525,31,-7,12628,50,-1
+6367,Grêmio,Flamengo,33,1,13992,56,16,14578,44,-5
+6368,Santos,Palmeiras,33,1,13530,50,15,11584,48,13
+6369,Athlético-pr,Avaí,34,1,12524,43,-5,6364,35,-21
+6370,Fluminense,Chapecoense,34,-1,12708,43,-8,5150,40,-7
+6371,Corinthians,Coritiba,34,1,14680,73,36,11036,34,-15
+6372,Internacional,Ponte preta,34,1,12628,50,-2,7440,50,5
+6373,Joinville,Santos,34,0,4699,30,-15,13530,53,16
+6374,Figueirense,Atlético-mg,34,-1,6898,36,-14,13224,62,17
+6375,Cruzeiro,São paulo,34,1,15328,45,4,12738,53,8
+6376,Flamengo,Goiás,34,1,14578,44,-7,10525,34,-6
+6377,Sport,Grêmio,34,1,6970,49,14,13992,59,18
+6378,Palmeiras,Vasco,34,-1,11584,48,12,12132,30,-30
+6379,Cruzeiro,Sport,35,1,15328,48,5,6970,52,15
+6380,Athlético-pr,Palmeiras,35,0,12524,46,-4,11584,48,10
+6381,Avaí,Joinville,35,1,6364,35,-22,4699,31,-15
+6382,Goiás,Coritiba,35,-1,10525,34,-9,11036,34,-16
+6383,Ponte preta,Figueirense,35,-1,7440,50,4,6898,36,-15
+6384,Vasco,Corinthians,35,0,12132,33,-28,14680,76,37
+6385,Santos,Flamengo,35,0,13530,54,16,14578,47,-4
+6386,Chapecoense,Internacional,35,1,5150,43,-6,12628,53,-1
+6387,Grêmio,Fluminense,35,1,13992,59,17,12708,43,-9
+6388,São paulo,Atlético-mg,35,1,12738,53,7,13224,65,18
+6389,Palmeiras,Cruzeiro,36,0,11584,49,10,15328,51,8
+6390,Sport,Athlético-pr,36,0,6970,52,12,12524,47,-4
+6391,Figueirense,Chapecoense,36,0,6898,39,-14,5150,46,-5
+6392,Atlético-mg,Goiás,36,0,13224,65,16,10525,34,-11
+6393,Flamengo,Ponte preta,36,0,14578,48,-4,7440,50,3
+6394,Corinthians,São paulo,36,1,14680,77,37,12738,56,9
+6395,Coritiba,Santos,36,1,11036,37,-14,13530,55,16
+6396,Fluminense,Avaí,36,1,12708,43,-10,6364,38,-21
+6397,Internacional,Grêmio,36,1,12628,53,-2,13992,62,18
+6398,Joinville,Vasco,36,-1,4699,31,-16,12132,34,-28
+6399,Fluminense,Internacional,37,0,12708,46,-8,12628,56,-1
+6400,Avaí,Ponte preta,37,1,6364,38,-23,7440,51,3
+6401,São paulo,Figueirense,37,1,12738,56,4,6898,40,-14
+6402,Athlético-pr,Flamengo,37,1,12524,48,-4,14578,49,-4
+6403,Palmeiras,Coritiba,37,-1,11584,50,10,11036,40,-13
+6404,Cruzeiro,Joinville,37,1,15328,52,8,4699,31,-17
+6405,Chapecoense,Goiás,37,-1,5150,47,-5,10525,35,-11
+6406,Grêmio,Atlético-mg,37,1,13992,62,17,13224,66,16
+6407,Sport,Corinthians,37,1,6970,53,12,14680,80,42
+6408,Vasco,Santos,37,1,12132,37,-27,13530,55,15
+6409,Corinthians,Avaí,38,0,14680,80,40,6364,41,-22
+6410,Coritiba,Vasco,38,0,11036,43,-11,12132,40,-26
+6411,Atlético-mg,Chapecoense,38,1,13224,66,15,5150,47,-7
+6412,Figueirense,Fluminense,38,1,6898,40,-15,12708,47,-8
+6413,Joinville,Grêmio,38,-1,4699,31,-20,13992,65,18
+6414,Internacional,Cruzeiro,38,1,12628,57,-1,15328,55,11
+6415,Flamengo,Palmeiras,38,-1,14578,49,-7,11584,50,8
+6416,Santos,Athlético-pr,38,1,13530,55,14,12524,51,-1
+6417,Goiás,São paulo,38,-1,10525,38,-9,12738,59,5
+6418,Ponte preta,Sport,38,-1,7440,51,2,6970,56,14
