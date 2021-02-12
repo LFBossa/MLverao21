@@ -34,4 +34,4 @@ Criamos um classificador para cada ano do campeonato, e as predições para os p
 
 Os resultados obtidos foram cristalizados no arquivo [previsões.html](previsões.html).
 
-
+Foi feita uma implementação em `julia`, a qual se encontra no diretório de mesmo nome.
